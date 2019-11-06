@@ -2,8 +2,8 @@ import gdal
 import numpy as np
 import calckmeans as ck
 
-inp = "F:\\kegiatan\\2019\\INSINAS\\DATA\\1_res5.tif"
-out = "F:\\kegiatan\\2019\\INSINAS\\DATA\\1_res5_kmeans4.tif"
+inp = "F:\\kegiatan\\2019\\DATA\\input.tif"
+out = "F:\\kegiatan\\2019\\DATA\\output.tif"
 
 ###############################################################################
 
