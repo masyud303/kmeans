@@ -1,3 +1,7 @@
+'''
+Created on Tue Oct 21 11:29:07 2019
+@coded by: yudhiprabowo
+'''
 import gdal
 import numpy as np
 import calckmeans as ck
